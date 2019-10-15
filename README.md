@@ -8,4 +8,5 @@ The main MATLAB code is grappa.m
 
 The main C++ code is grappainc.cpp
 
+Output Image using GRAPPA algorithm on Kspace data:
 ![alt text](https://github.com/rishabhramteke/Image-Reconstruction-with-MRI-technology/blob/master/results%20and%20comparision/SOS.png)
