@@ -5,4 +5,5 @@ Implemented a modified version of GRAPPA algorithm on SDK for image reconstructi
 Simulated the algorithm on Matlab and then implemented it on Xilinx Zynq-7000 FPGA board.
 
 The main MATLAB code is grappa.m
-The main C code is grappacin.cpp
+
+The main C++ code is grappainc.cpp
