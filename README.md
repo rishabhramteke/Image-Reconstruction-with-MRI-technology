@@ -7,3 +7,5 @@ Simulated the algorithm on Matlab and then implemented it on Xilinx Zynq-7000 FP
 The main MATLAB code is grappa.m
 
 The main C++ code is grappainc.cpp
+
+![alt text](https://github.com/rishabhramteke/Image-Reconstruction-with-MRI-technology/blob/master/results%20and%20comparision/SOS.png)
