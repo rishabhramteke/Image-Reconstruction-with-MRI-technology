@@ -1,12 +1,11 @@
 # Image-Reconstruction-with-MRI-technology
 
-Awarded the Undergraduate Research Award for this notable contribution.
-Implemented a modified version of GRAPPA algorithm on SDK for image reconstruction with parallel MRI technology which would be used in the indigenous state-of-art MRI Machines.
-Simulated the algorithm on Matlab and then implemented it on Xilinx Zynq-7000 FPGA board.
+I worked on this project during the spring of 2019 (my sophomore year) under the guidance of [Prof. V.M.Gadre](https://scholar.google.co.in/citations?user=vAoOAsQAAAAJ&hl=en) in collaboration with [SAMEER](https://www.sameer.gov.in) (Society for Applied Microwave Electronics Engineering & Research), an autonomous R&D laboratory under Ministry of Electronics & Information Technology, Government of India.
 
-The main MATLAB code is grappa.m
+I was awarded the Undergraduate Research Award for this notable contribution.
+We implemented a modified version of GRAPPA algorithm on SDK for image reconstruction with parallel MRI technology which would be used in the indigenous state-of-art MRI Machines. Simulated the algorithm on Matlab and then implemented it on Xilinx Zynq-7000 FPGA board.
 
-The main C++ code is grappainc.cpp
+The main MATLAB code is grappa.m and the main C++ code is grappainc.cpp
 
 Output Image using GRAPPA algorithm on Kspace data:
 ![alt text](https://github.com/rishabhramteke/Image-Reconstruction-with-MRI-technology/blob/master/results%20and%20comparision/SOS.png)
