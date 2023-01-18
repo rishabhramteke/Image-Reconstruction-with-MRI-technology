@@ -8,4 +8,6 @@ We implemented a modified version of GRAPPA algorithm on SDK for image reconstru
 The main MATLAB code is grappa.m and the main C++ code is grappainc.cpp
 
 Output Image using GRAPPA algorithm on Kspace data:
-![alt text](https://github.com/rishabhramteke/Image-Reconstruction-with-MRI-technology/blob/master/results%20and%20comparision/SOS.png)
+![alt text](./results%20and%20comparision/SOS.png)
+
+As part of this project, we also did an analysis of modulation and data transmission techniques. You can find our presentation [here](./URA.pdf)
